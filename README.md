@@ -14,7 +14,7 @@ Desenvolvedor no **Núcleo de Estudos em Sistemas Pervasivos e Distribuídos (NE
 
 - Como sistemas escalam (e onde quebram)
 - Como dados fluem entre camadas
-- Como abstrações escondem — e revelam — complexidade
+- Como abstrações escondem ( e revelam ) complexidade
 - Como transformar ideias em algo que realmente funcione
 
 ---
