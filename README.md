@@ -1,12 +1,15 @@
-# 🧪 Gabriel — laboratório em constante execução
-
+# 🧪 Olá, sou o Gabriel
+## Atualmente:
 > Construindo sistemas.  
 > Investigando ideias.  
 > Aprendendo sem parar.
 
 
 ---
+# 🔭 Iniciação Científica:
+Desenvolvedor no **Núcleo de Estudos em Sistemas Pervasivos e Distribuídos (NESPeD) - UFV**, o berço do [MyMobiconf](https://mymobiconf.caf.ufv.br/).👨‍🚀🚀
 
+---
 ## 🧠 O que me interessa
 
 - Como sistemas escalam (e onde quebram)
