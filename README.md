@@ -27,7 +27,7 @@
 
 ---
 
-## 🧱 Ferramentas que habitam o laboratório
+## 🧱 Ferramentas em que trabalho atualmente
 
 ![Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,docker,html,css,python,git,github)
 
