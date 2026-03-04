@@ -1,16 +1,47 @@
-## Hi there 👋
+# 🧪 Gabriel — laboratório em constante execução
 
-<!--
-**gabriel2036/gabriel2036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Construindo sistemas.  
+> Investigando ideias.  
+> Aprendendo sem parar.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 O que me interessa
+
+- Como sistemas escalam (e onde quebram)
+- Como dados fluem entre camadas
+- Como abstrações escondem — e revelam — complexidade
+- Como transformar ideias em algo que realmente funcione
+
+---
+
+## 🔬 Áreas de exploração
+
+- Arquitetura de software
+- Backend & APIs
+- Ecossistema TypeScript
+- Sistemas distribuídos
+- Machine Learning & LLMs
+- Estruturas de dados e performance
+
+---
+
+## 🧱 Ferramentas que habitam o laboratório
+
+![Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,docker,html,css,python,git,github)
+
+---
+
+## 🚀 Experimentos em andamento
+
+- Refinamento de padrões arquiteturais
+- Construção de projetos pequenos 
+- Estudo contínuo sobre como projetar sistemas melhores
+
+---
+
+## 📊 Telemetria do laboratório
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabriel2036&theme=react-dark&hide_border=true)
