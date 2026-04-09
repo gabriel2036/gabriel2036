@@ -43,8 +43,3 @@ Desenvolvedor no **Núcleo de Estudos em Sistemas Pervasivos e Distribuídos (NE
 - Estudo contínuo sobre como projetar sistemas melhores
 
 ---
-
-## 📊 Telemetria do laboratório
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabriel2036&theme=react-dark&hide_border=true)
